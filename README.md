@@ -13,7 +13,7 @@
 
 ## Developer
 * 	Thusitha Wijethunga
-	* 	[Facebook](https://www.facebook.com/mr.thusitha.wijethunga) , [Google Plus](https://plus.google.com/+thusithawijethunga) , [GitHub](https://github.com/thusithawijethunga)
+	* 	[LinkedIn](https://www.linkedin.com/in/thusitha-wijethunga-38445879/) , [Facebook](https://www.facebook.com/mr.thusitha.wijethunga) , [Google Plus](https://plus.google.com/+thusithawijethunga) , [GitHub](https://github.com/thusithawijethunga)
 	* 	**Email** - thusithawijethunga@gmail.com
 	* 	**Mobile** - (+94)775802112 / (+94)717677009
 	* 	**Address** - Thusitha Wijethunga,Sithumini,191/A, Beraliathura,Ransegoda, Matara.
@@ -36,4 +36,4 @@
 * Sound Efx 	– Adobe Audition, Reason 4,4.
 	
 ## HNDIT	
-* https://atikegalle.com/blog/post/48/special/what-is-hnd-hnd-
+* [What-is-hnd](https://atikegalle.com/blog/post/48/special/what-is-hnd-hnd-)
