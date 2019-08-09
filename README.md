@@ -1,6 +1,10 @@
 # Thorana 2014 - HNDIT Vesak - Labudhuwa,Galle.
 ### වෙසක් තෙරණ - 2014 -වෙසක් කළාපය, උසස් ජාතික තෙරතුරු තාක්ෂණ පාඨමාලාව.
 
+## Demo
+[![Vesak Thorana](http://img.youtube.com/vi/e3W1oPqOuVU/0.jpg)](http://www.youtube.com/watch?v=e3W1oPqOuVU "Vesak Thorana")
+
+
 ## System Requirement
 * Windows Operating system.
 * CPU	Pentium processor or higher.
@@ -20,9 +24,9 @@
 ## Graphic
 * Credit - Arts form Evidu Mobile App
 * 	http://www.evidu.net/
-* 	http://www.evidu.net/web/downloads.php
-* 	https://play.google.com/store/apps/details?id=lk.jathakakatha.swarnahansa&feature=search_result
-* 	https://apps.apple.com/lk/app/swarnahansa-jathakaya/id524291351
+* 	[Download Apps](http://www.evidu.net/web/downloads.php)  
+* 	Swarnahansa Jathakaya App
+	* 	[Android](https://play.google.com/store/apps/details?id=lk.jathakakatha.swarnahansa&feature=search_result) , [IOS](https://apps.apple.com/lk/app/swarnahansa-jathakaya/id524291351)
 
 ## Audio
 *  Credit - © Ransilu KaviBana No23 - AlaWathure Vijithawansha.
