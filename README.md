@@ -2,7 +2,7 @@
 ### වෙසක් තෙරණ - 2014 -වෙසක් කළාපය, උසස් ජාතික තෙරතුරු තාක්ෂණ පාඨමාලාව.
 
 ## Demo
-[![Vesak Thorana](http://img.youtube.com/vi/e3W1oPqOuVU/0.jpg)](http://www.youtube.com/watch?v=e3W1oPqOuVU "Vesak Thorana")
+[![Vesak Thorana](http://img.youtube.com/vi/e3W1oPqOuVU/maxresdefault.jpg)](http://www.youtube.com/watch?v=e3W1oPqOuVU "Vesak Thorana")
 
 ## Download
 [Last Release](https://github.com/thusithawijethunga/vesak_thorana_2014/archive/0.1.0.zip)  
