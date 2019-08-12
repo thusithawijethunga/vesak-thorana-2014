@@ -5,7 +5,7 @@
 [![Vesak Thorana](http://img.youtube.com/vi/e3W1oPqOuVU/maxresdefault.jpg)](http://www.youtube.com/watch?v=e3W1oPqOuVU "Vesak Thorana")
 
 ## Download
-[Last Release](https://github.com/thusithawijethunga/vesak_thorana_2014/archive/0.1.0.zip)  
+[Last Release](https://github.com/thusithawijethunga/vesak-thorana-2014/archive/0.1.0.zip)  
 
 ## System Requirement
 * Windows Operating system.
